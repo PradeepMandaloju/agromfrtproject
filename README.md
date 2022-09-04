@@ -13,7 +13,6 @@
 # About Section
 ![Screenshot 2022-09-04 112738](https://user-images.githubusercontent.com/111443905/188300555-fcb860f0-f82a-45f7-ac82-df462bf81b30.png)
 ![Screenshot 2022-09-04 112809](https://user-images.githubusercontent.com/111443905/188300901-7bbb5399-e74b-4988-8c14-87d85ad928a8.png)
-
 #
 
 # Service Section
@@ -27,11 +26,11 @@
 ![Screenshot 2022-09-04 113044](https://user-images.githubusercontent.com/111443905/188300602-b0c044a6-966d-459f-817e-54c86bb845dc.png)
 #
 
-## Microsoft Azure link -
+## Microsoft Azure link - https://happy-stone-0394b2b10.1.azurestaticapps.net
 # Microsoft azure page - static web app for Agrom Project
-
+![Screenshot 2022-09-04 122446](https://user-images.githubusercontent.com/111443905/188301404-608eca18-cb13-4a0d-9752-13faeb6fcde0.png)
 #
 
 # Microsoft azure page for Resource Manager for Agrom Project
-
+![Screenshot 2022-09-04 122256](https://user-images.githubusercontent.com/111443905/188301409-2aeeaad9-9537-4728-aa17-5ce585338ab8.png)
 #
