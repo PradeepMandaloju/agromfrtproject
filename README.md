@@ -2,8 +2,8 @@
 
 # I have done my Project on "Agrom" static web app which provides fresh vegetables and fruits directly available from farms.
 # Microsoft Azure link for Future Ready Talent project-https://happy-stone-0394b2b10.1.azurestaticapps.net
-# My Git hub project repositry -
-# My Github project repositry -
+# My Git hub project repositry -https://pradeepmandaloju.github.io/agromfrtproject/
+# My Github project repositry URL -
 
 # Home page
 ![Screenshot 2022-09-04 112421](https://user-images.githubusercontent.com/111443905/188300412-5c870e99-4e7e-43af-9282-b8419de72028.png)
